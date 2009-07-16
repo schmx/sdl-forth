@@ -32,23 +32,23 @@ SDL-EventType SDL-KeyUp
 SDL-EventType SDL-MouseMotion
 SDL-EventType SDL-MouseButtonDown
 SDL-EventType SDL-MouseButtonUp
-\ SDL-EventType SDL-JoyAxisMotion
-\ SDL-EventType SDL-JoyBallMotion
-\ SDL-EventType SDL-JoyHatMotion
-\ SDL-EventType SDL-JoyButtonDown
-\ SDL-EventType SDL-JoyButtonUp
+SDL-EventType SDL-JoyAxisMotion
+SDL-EventType SDL-JoyBallMotion
+SDL-EventType SDL-JoyHatMotion
+SDL-EventType SDL-JoyButtonDown
+SDL-EventType SDL-JoyButtonUp
 SDL-EventType SDL-Quit
 SDL-EventType SDL-SysWMEvent
-\ SDL-EventType SDL-EventReservedA
-\ SDL-EventType SDL-EventReservedB
+SDL-EventType SDL-EventReservedA
+SDL-EventType SDL-EventReservedB
 SDL-EventType SDL-VideoResize
 SDL-EventType SDL-VideoExpose
-\ SDL-EventType SDL-EventReserved2
-\ SDL-EventType SDL-EventReserved3
-\ SDL-EventType SDL-EventReserved4
-\ SDL-EventType SDL-EventReserved5
-\ SDL-EventType SDL-EventReserved6
-\ SDL-EventType SDL-EventReserved7
+SDL-EventType SDL-EventReserved2
+SDL-EventType SDL-EventReserved3
+SDL-EventType SDL-EventReserved4
+SDL-EventType SDL-EventReserved5
+SDL-EventType SDL-EventReserved6
+SDL-EventType SDL-EventReserved7
 24 constant SDL-UserEvent
 32 constant SDL-NumEvents
 
